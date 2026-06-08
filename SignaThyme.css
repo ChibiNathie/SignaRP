@@ -1,0 +1,23 @@
+﻿.SignThyme {margin:20px auto;width:450px;box-sizing:border-box;}
+.STR1 {display:flex;gap:20px;align-items:center;margin-bottom:10px;font-family:var(--fo1);font-size:16px;}
+.STT1 {width:280px;text-align:right;}
+.STI1 {width:150px;height:75px;object-fit:cover;object-position:center;border-radius:5px;border:3px solid var(--Co1);transition:800ms;transform:rotate(8deg)}
+.STR2 {display:flex;gap:10px;align-items:center;margin-bottom:10px;font-family:var(--fo2);font-size:12px;}
+.STI2 {width:120px;height:50px;object-fit:cover;object-position:center;border-radius:5px;border:3px solid var(--Co2);transition:800ms;transform:rotate(-8deg)}
+.STT2 {width:310px;text-align:left;}
+.SignThyme:hover .STI1 {transform:rotate(5deg);transition:500ms;}
+.SignThyme:hover .STI2 {transform:rotate(-5deg);transition:500ms;}
+#SignaNathie{
+margin:auto;
+}
+#SignaNathie a {
+font-size:8px;
+padding:5px;
+font-family: 'Habibi', serif;
+padding-top:15px;
+text-align:center;
+color:#ddd !important;
+text-decoration:none !important;
+margin:auto;
+width:100px;
+}
