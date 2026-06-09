@@ -1,0 +1,79 @@
+﻿.SignaSomchai {
+  box-sizing: border-box;
+  margin: 20px auto;
+  width: 500px;
+  display: flex;
+  gap:40px;
+  font-family:var(--F1);
+}
+
+
+.FramePhoto {
+  background-image: url('https://i.imgur.com/QldgKcB.png');
+  height: 250px;
+  width: 230px;
+  text-align: center;
+  padding-top: 15px;
+  box-shadow: 10px 10px 20px #cdcdcd;
+  transform: rotate(3deg);
+}
+
+
+.PolaImg {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  
+}
+
+
+.InfoPart {
+  margin-top: 20px;
+  text-align: center;
+  width: 230px;
+}
+
+
+.Cita {
+  font-family: var(--F2);
+  height: 100px;
+  overflow: auto;
+  margin-bottom: 10px;
+  color:var(--Grad1);
+}
+
+
+.MiniInfo {
+  margin-bottom: 10px;
+  overflow: auto;
+  height: 80px;
+}
+
+
+.DCs {
+  height:50px;
+  font-size: 16px;
+  line-height:1.2;
+  overflow:auto;
+}
+
+
+#SignaNathie{
+  margin: auto;
+  width: 100px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+
+#SignaNathie a {
+  font-size: 8px;
+  padding: 5px;
+  padding-top: 15px;
+  text-align: center;
+  color: #ddd !important;
+  text-decoration: none !important;
+  margin: auto;
+  width: 100px;
+}
