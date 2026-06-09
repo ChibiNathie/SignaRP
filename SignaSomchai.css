@@ -40,8 +40,9 @@
   height: 100px;
   overflow: auto;
   margin-bottom: 10px;
-  color:var(--Grad1);
+  color:var(--C1);
   font-size: 16px;
+  font-weight: bold;
 }
 
 
