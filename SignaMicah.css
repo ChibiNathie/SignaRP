@@ -1,0 +1,64 @@
+﻿.SignaMicah {
+  width: 550px;
+  margin: auto;
+  box-sizing: border-box;
+}
+
+
+.SMGifs {
+  text-align: center;
+  border-bottom: 3px solid var(--SMC1);
+}
+
+
+.SMImg {
+  object-fit: cover;
+  object-position: center;
+  margin: 0 3px;
+  border-radius: 5px 5px 0 0;
+  width: 200px;
+  height: 100px;
+}
+
+
+.SMC {
+  font-family: "Playwrite GB J", cursive;
+  font-weight: 600;
+  text-align: center;
+  text-shadow: -1px -1px 0 var(--SMC1), 1px -1px 0 var(--SMC1), -1px 1px 0 var(--SMC1), 1px 1px 0 var(--SMC1);
+  color:var(--SMC2);
+  margin-top: -18px;
+  font-size: 18px;
+}
+
+
+.SMI {
+  text-align: center;
+  margin: 10px 30px;
+}
+
+
+.SMDC {
+  text-align: center;
+  margin: 5px 30px;
+}
+
+
+.SignaNathie{
+  margin: auto;
+  width: 100px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+
+.SignaNathie a {
+  font-size: 8px;
+  padding: 5px;
+  padding-top: 15px;
+  text-align: center;
+  color: #ddd !important;
+  text-decoration: none !important;
+  margin: auto;
+  width: 100px;
+}
