@@ -18,15 +18,15 @@
   height:80px;
   padding:5px;
   border-radius:10px;
-  border:3px solid #6E7D68;
+  border:3px solid var(--MColor);
 
 
 }
 
 
 .DevTexte {
-  border-top:2px solid #5E6B71;
-  border-bottom:2px solid #5E6B71;
+  border-top:2px solid var(--SColor);
+  border-bottom:2px solid var(--SColor);
   padding:10px 20px 10px 130px;
   border-radius:10px;
   margin-top:25px;
@@ -57,7 +57,7 @@ dev {
   width:60px;
   height:60px;
   padding:5px;
-  border:2px solid #6E7D68;
+  border:2px solid var(--MColor);
 }
 
 
