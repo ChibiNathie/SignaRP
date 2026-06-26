@@ -1,0 +1,73 @@
+﻿.SignaDevin {
+   width: 450px;
+  margin: 10px auto 0 auto;
+  box-sizing: border-box;
+  display:flex;
+}
+
+
+.Gif1Dev {
+  z-index:1;
+}
+
+
+.DevGif1 {
+  object-fit:cover;
+  object-position:center;
+  width:150px;
+  height:80px;
+  padding:5px;
+  border-radius:10px;
+  border:3px solid #6E7D68;
+
+
+}
+
+
+.DevTexte {
+  border-top:2px solid #5E6B71;
+  border-bottom:2px solid #5E6B71;
+  padding:10px 20px 10px 130px;
+  border-radius:10px;
+  margin-top:25px;
+  margin-left:-120px;
+  height:65px;
+  overflow:auto;
+  text-align:center;
+  font-family:"Share Tech", sans-serif;
+  font-size:16px;
+}
+
+
+dev {
+  font-family:"Dancing Script", cursive;
+  font-size:18px;
+}
+
+
+.GifCaDev {
+  margin-top:60px;
+  margin-left:-10px;
+}
+
+
+.DevGif2 {
+  object-fit:cover;
+  object-position:center;
+  width:60px;
+  height:60px;
+  padding:5px;
+  border:2px solid #6E7D68;
+}
+
+
+.SignaDevInfo {
+  box-sizing: border-box;
+  width: 450px;
+  margin: 10px auto 0 auto;
+}
+
+
+min {
+  font-size:8px;
+}
