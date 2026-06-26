@@ -71,3 +71,21 @@ dev {
 min {
   font-size:8px;
 }
+
+.SignaNathie{
+  margin: auto;
+  width: 100px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.SignaNathie a {
+  font-size: 8px;
+  padding: 5px;
+  padding-top: 15px;
+  text-align: center;
+  color: #ddd !important;
+  text-decoration: none !important;
+  margin: auto;
+  width: 100px;
+}
