@@ -10,6 +10,7 @@
 .SSImg {
   background-image:linear-gradient(45deg, var(--C1), var(--C2));
   padding:10px;
+  height:140px;
 }
 
 
@@ -28,7 +29,7 @@
 .SSCi {
   text-align:center;
   margin:10px 0;
-  height:97px;
+  height:95px;
   overflow:auto;
   border-right:5px solid var(--C2);
   font-family:"Tirra", cursive;
