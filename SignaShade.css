@@ -1,0 +1,92 @@
+﻿.SignaShade {
+  margin:auto;
+  width:400px;
+  display:flex;
+  gap:10px;
+  box-sizing: border-box;
+}
+
+
+.SSImg {
+  background-image:linear-gradient(45deg, var(--C1), var(--C2));
+  padding:10px;
+}
+
+
+.ShadeImg {
+  width:120px;
+  height:120px;
+  object-fit:cover;
+  object-position:center;
+  border:1px solid var(--neutral);
+}
+
+
+.SSC1 {width:250px;}
+
+
+.SSCi {
+  text-align:center;
+  margin:10px 0;
+  height:97px;
+  overflow:auto;
+  border-right:5px solid var(--C2);
+  font-family:"Tirra", cursive;
+  display: grid;
+  align-content: end;
+}
+
+
+sha {
+  border-bottom:1px dotted var(--C1);
+  display:inline-block;
+  margin-bottom:10px;
+  font-family:"Lavishly Yours", cursive;
+  font-size:26px;
+  font-weight:600;
+  line-height:1.2;
+  letter-spacing:2px;
+  width:80%;
+}
+
+
+.ShadeGif {
+  width:250px;
+  height:25px;
+  object-fit:cover;
+  object-position:center;
+}
+
+
+.SignaNathie{
+  margin: auto;
+  width: 100px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+
+.SignaNathie a {
+  font-size: 8px;
+  padding: 5px;
+  padding-top: 15px;
+  text-align: center;
+  color: #ddd !important;
+  text-decoration: none !important;
+  margin: auto;
+  width: 100px;
+}
+
+
+.DCShade {
+  margin:auto;
+  width:400px;
+  margin-top:20px;
+  border:1px dotted var(--C1);
+  padding:5px;
+  font-family:"Tirra", cursive;
+  font-size:12px;
+  overflow:auto;
+  max-height:40px;
+  box-sizing: border-box;
+}
